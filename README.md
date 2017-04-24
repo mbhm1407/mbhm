@@ -1,2 +1,0 @@
-# mbhm
-GitHub Pages
